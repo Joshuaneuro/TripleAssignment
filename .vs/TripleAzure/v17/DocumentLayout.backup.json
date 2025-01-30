@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JPMva\\source\\repos\\TripleAzure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6A93AF-B2A1-4CA9-9677-8E52CBEC00D0}|TripleAzure\\TripleAzure.csproj|c:\\users\\jpmva\\source\\repos\\tripleazure\\tripleazure\\weather-job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6A93AF-B2A1-4CA9-9677-8E52CBEC00D0}|TripleAzure\\TripleAzure.csproj|solutionrelative:tripleazure\\weather-job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6A93AF-B2A1-4CA9-9677-8E52CBEC00D0}|TripleAzure\\TripleAzure.csproj|c:\\users\\jpmva\\source\\repos\\tripleazure\\tripleazure\\startjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6A93AF-B2A1-4CA9-9677-8E52CBEC00D0}|TripleAzure\\TripleAzure.csproj|solutionrelative:tripleazure\\startjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6A93AF-B2A1-4CA9-9677-8E52CBEC00D0}|TripleAzure\\TripleAzure.csproj|c:\\users\\jpmva\\source\\repos\\tripleazure\\tripleazure\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A6A93AF-B2A1-4CA9-9677-8E52CBEC00D0}|TripleAzure\\TripleAzure.csproj|solutionrelative:tripleazure\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6A93AF-B2A1-4CA9-9677-8E52CBEC00D0}|TripleAzure\\TripleAzure.csproj|c:\\users\\jpmva\\source\\repos\\tripleazure\\tripleazure\\unsplashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6A93AF-B2A1-4CA9-9677-8E52CBEC00D0}|TripleAzure\\TripleAzure.csproj|solutionrelative:tripleazure\\unsplashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6A93AF-B2A1-4CA9-9677-8E52CBEC00D0}|TripleAzure\\TripleAzure.csproj|c:\\users\\jpmva\\source\\repos\\tripleazure\\tripleazure\\imageuploader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6A93AF-B2A1-4CA9-9677-8E52CBEC00D0}|TripleAzure\\TripleAzure.csproj|solutionrelative:tripleazure\\imageuploader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6A93AF-B2A1-4CA9-9677-8E52CBEC00D0}|TripleAzure\\TripleAzure.csproj|c:\\users\\jpmva\\source\\repos\\tripleazure\\tripleazure\\tripleazure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6A6A93AF-B2A1-4CA9-9677-8E52CBEC00D0}|TripleAzure\\TripleAzure.csproj|solutionrelative:tripleazure\\tripleazure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6A93AF-B2A1-4CA9-9677-8E52CBEC00D0}|TripleAzure\\TripleAzure.csproj|c:\\users\\jpmva\\source\\repos\\tripleazure\\tripleazure\\weatherapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6A93AF-B2A1-4CA9-9677-8E52CBEC00D0}|TripleAzure\\TripleAzure.csproj|solutionrelative:tripleazure\\weatherapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6A93AF-B2A1-4CA9-9677-8E52CBEC00D0}|TripleAzure\\TripleAzure.csproj|c:\\users\\jpmva\\source\\repos\\tripleazure\\tripleazure\\checkweatherstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6A93AF-B2A1-4CA9-9677-8E52CBEC00D0}|TripleAzure\\TripleAzure.csproj|solutionrelative:tripleazure\\checkweatherstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6A93AF-B2A1-4CA9-9677-8E52CBEC00D0}|TripleAzure\\TripleAzure.csproj|c:\\users\\jpmva\\source\\repos\\tripleazure\\tripleazure\\imagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6A93AF-B2A1-4CA9-9677-8E52CBEC00D0}|TripleAzure\\TripleAzure.csproj|solutionrelative:tripleazure\\imagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6A93AF-B2A1-4CA9-9677-8E52CBEC00D0}|TripleAzure\\TripleAzure.csproj|c:\\users\\jpmva\\source\\repos\\tripleazure\\tripleazure\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A6A93AF-B2A1-4CA9-9677-8E52CBEC00D0}|TripleAzure\\TripleAzure.csproj|solutionrelative:tripleazure\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Weather-job.cs",
+              "DocumentMoniker": "C:\\Users\\JPMva\\source\\repos\\TripleAzure\\TripleAzure\\Weather-job.cs",
+              "RelativeDocumentMoniker": "TripleAzure\\Weather-job.cs",
+              "ToolTip": "C:\\Users\\JPMva\\source\\repos\\TripleAzure\\TripleAzure\\Weather-job.cs",
+              "RelativeToolTip": "TripleAzure\\Weather-job.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T19:36:35.192Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartJob.cs",
+              "DocumentMoniker": "C:\\Users\\JPMva\\source\\repos\\TripleAzure\\TripleAzure\\StartJob.cs",
+              "RelativeDocumentMoniker": "TripleAzure\\StartJob.cs",
+              "ToolTip": "C:\\Users\\JPMva\\source\\repos\\TripleAzure\\TripleAzure\\StartJob.cs",
+              "RelativeToolTip": "TripleAzure\\StartJob.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T15:16:31.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\JPMva\\source\\repos\\TripleAzure\\TripleAzure\\local.settings.json",
+              "RelativeDocumentMoniker": "TripleAzure\\local.settings.json",
+              "ToolTip": "C:\\Users\\JPMva\\source\\repos\\TripleAzure\\TripleAzure\\local.settings.json",
+              "RelativeToolTip": "TripleAzure\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-24T20:24:29.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TripleAzure.csproj",
+              "DocumentMoniker": "C:\\Users\\JPMva\\source\\repos\\TripleAzure\\TripleAzure\\TripleAzure.csproj",
+              "RelativeDocumentMoniker": "TripleAzure\\TripleAzure.csproj",
+              "ToolTip": "C:\\Users\\JPMva\\source\\repos\\TripleAzure\\TripleAzure\\TripleAzure.csproj",
+              "RelativeToolTip": "TripleAzure\\TripleAzure.csproj",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-25T00:47:47.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnsplashService.cs",
+              "DocumentMoniker": "C:\\Users\\JPMva\\source\\repos\\TripleAzure\\TripleAzure\\UnsplashService.cs",
+              "RelativeDocumentMoniker": "TripleAzure\\UnsplashService.cs",
+              "ToolTip": "C:\\Users\\JPMva\\source\\repos\\TripleAzure\\TripleAzure\\UnsplashService.cs",
+              "RelativeToolTip": "TripleAzure\\UnsplashService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBMAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T12:50:08.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherAPI.cs",
+              "DocumentMoniker": "C:\\Users\\JPMva\\source\\repos\\TripleAzure\\TripleAzure\\WeatherAPI.cs",
+              "RelativeDocumentMoniker": "TripleAzure\\WeatherAPI.cs",
+              "ToolTip": "C:\\Users\\JPMva\\source\\repos\\TripleAzure\\TripleAzure\\WeatherAPI.cs",
+              "RelativeToolTip": "TripleAzure\\WeatherAPI.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T11:51:44.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImageUploader.cs",
+              "DocumentMoniker": "C:\\Users\\JPMva\\source\\repos\\TripleAzure\\TripleAzure\\ImageUploader.cs",
+              "RelativeDocumentMoniker": "TripleAzure\\ImageUploader.cs",
+              "ToolTip": "C:\\Users\\JPMva\\source\\repos\\TripleAzure\\TripleAzure\\ImageUploader.cs",
+              "RelativeToolTip": "TripleAzure\\ImageUploader.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T13:29:59.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CheckWeatherState.cs",
+              "DocumentMoniker": "C:\\Users\\JPMva\\source\\repos\\TripleAzure\\TripleAzure\\CheckWeatherState.cs",
+              "RelativeDocumentMoniker": "TripleAzure\\CheckWeatherState.cs",
+              "ToolTip": "C:\\Users\\JPMva\\source\\repos\\TripleAzure\\TripleAzure\\CheckWeatherState.cs",
+              "RelativeToolTip": "TripleAzure\\CheckWeatherState.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwDUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T21:43:48.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ImageHelper.cs",
+              "DocumentMoniker": "C:\\Users\\JPMva\\source\\repos\\TripleAzure\\TripleAzure\\ImageHelper.cs",
+              "RelativeDocumentMoniker": "TripleAzure\\ImageHelper.cs",
+              "ToolTip": "C:\\Users\\JPMva\\source\\repos\\TripleAzure\\TripleAzure\\ImageHelper.cs",
+              "RelativeToolTip": "TripleAzure\\ImageHelper.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T00:48:29.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "host.json",
+              "DocumentMoniker": "C:\\Users\\JPMva\\source\\repos\\TripleAzure\\TripleAzure\\host.json",
+              "RelativeDocumentMoniker": "TripleAzure\\host.json",
+              "ToolTip": "C:\\Users\\JPMva\\source\\repos\\TripleAzure\\TripleAzure\\host.json",
+              "RelativeToolTip": "TripleAzure\\host.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-24T21:20:31.892Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

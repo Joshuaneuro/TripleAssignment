@@ -1,0 +1,8 @@
+### Start a Background Job
+# Start a job to generate weather station images
+POST http://localhost:7071/api/StartJob
+Content-Type: application/json
+
+### Check Job Status
+# Check the status of the job by ID
+GET http://localhost:7071/api/CheckJobStatus/
