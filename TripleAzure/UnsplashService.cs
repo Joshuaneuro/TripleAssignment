@@ -18,7 +18,7 @@ public class Photo
 public class UnsplashService
 {
     private const string ApiUrl = "https://api.unsplash.com/photos/random?count=5";
-    private const string AccessKey = "J1P7bp3g6H1U_H-WK6h7zIy77Qwy4Pt7Nm2HfFFsvi4"; // Replace with your Unsplash access key
+    private const string AccessKey = ""; // Replace with your Unsplash access key
 
     public static async Task<List<Photo>> GetRandomPhotosAsync()
     {
